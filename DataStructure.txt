@@ -1,0 +1,65 @@
+Flight Delay Prediction Based on Aviation Big Data and Machine Learning
+
+
+Flight delay prediction, ADS-B, machine learning,
+LSTM neural network, random forest.
+
+
+Flight_Delay_Prediction
+
+flight_delay_prediction
+
+
+Departure_Country
+Departure_Airport
+Flight_Number
+Date
+Departure_Scheduled_Time
+Pre_Flight --- Meaning  determine that it's safe to fly
+Historical_Flight_Delay
+Arrival_Country
+Arrival_Airport
+Airport_Delay_Reason -- Weather,Airport Traffic Flow,Leave_Port_Speed,Arrive_Port_Speed
+Air_Route_Delay_Reason -- historical traffic flow, peak traffic flow, real-time traffic flow
+Other Reason --season, holiday,unexpected event
+
+
+air traffic control problems
+
+
+
+
+Departure_Country
+Departure_Airport
+Flight_Name
+Flight_Number
+Date
+Departure_Scheduled_Time
+Pre_Flight
+Expected_Delay
+Historical_Flight_Delay
+Arrival_Country
+Arrival_Airport
+Airport_Delay_Reason
+Air_Route_Delay_Reason
+Other_Reason 
+
+
+
+
+Departure_Country
+Departure_Airport
+Flight_Name
+Flight_Number
+Date
+Departure_Scheduled_Time
+Pre_Flight
+Expected_Delay
+Historical_Flight_Delay
+Total_Flight_Delay
+Arrival_Country
+Arrival_Airport
+Airport_Delay_Reason
+Air_Route_Delay_Reason
+Other_Reason 
+
